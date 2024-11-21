@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-
+//edit
 #define MAX_RESERVATIONS 6
 #define MAX_NAME_LENGTH 50
 #define MAX_DATE_LENGTH 11

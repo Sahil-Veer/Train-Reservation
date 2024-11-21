@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 #define MAX_RESERVATIONS 6
-#define MAX_NAME_LENGTH 50
+#define MAX_NAME_LENGTH 50//edit
 #define MAX_DATE_LENGTH 11
 #define MAX_TIME_LENGTH 10
 #define RESERVATION_NUM_LENGTH 12
